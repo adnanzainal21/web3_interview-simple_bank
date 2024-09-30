@@ -1,4 +1,4 @@
-# simple_bank
+# simple bank simulation
 web3 interview
 
 # To Use this
@@ -10,9 +10,10 @@ $ npm run dev
 Have fun!!
 
 # To re-deploy new transaction
-Keep in mind that I did not hide my private key, so when you gonna re-deploy it make sure change to yours private key!!! Thx XD
+The key I use is mine (adnanzainal21) so before using make sure to change it to your own
 ```bash
 $ cd smart_contract
 $ npx hardhat run .\scripts\deploy.js --network kovan
 ```
-Actaully I prefer to use ropsten more than kovan
+### Created by following the Web3 Developer Community Learning steps
+## greetings to you
